@@ -2,8 +2,8 @@ PATH
   remote: .
   specs:
     simple_form (3.4.0)
-      actionpack (> 4, < 5.1)
-      activemodel (> 4, < 5.1)
+      actionpack (> 4, < 5.2)
+      activemodel (> 4, < 5.2)
 
 GEM
   remote: https://rubygems.org/
@@ -292,4 +292,4 @@ DEPENDENCIES
   simple_form!
 
 BUNDLED WITH
-   1.14.0.pre.1
+   1.14.6
